@@ -1,2 +1,4 @@
 # PYTHON-Curso-em-Video
- O que eu já estudei
+ Tudo sobre o curso de Python.
+
+Repositório criado para mostrar meus exericios e estudos em Python.
